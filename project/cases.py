@@ -1,0 +1,3 @@
+
+x = 'cases'
+print(x)
